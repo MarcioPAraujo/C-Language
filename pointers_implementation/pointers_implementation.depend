@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1656361876 source:c:\users\mariailsa\desktop\programming languages\c\c\empilha pratos teste\pointers_implementation\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<locale.h>
+
